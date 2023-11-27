@@ -1,0 +1,8 @@
+No java script sempre começa com <script>
+
+Alert: window.alert('awdawd')
+
+Alert confirm: windows.confirm('awdawd')
+
+Alert prompt: window.prompt('awdawd')
+
